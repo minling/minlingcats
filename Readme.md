@@ -1,6 +1,6 @@
 Minling's cats
 ---
 
-#About
+#About Minling
 
 Everything about Minling's cats 
